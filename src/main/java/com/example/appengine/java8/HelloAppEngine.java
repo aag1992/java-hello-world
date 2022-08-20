@@ -34,7 +34,7 @@ public class HelloAppEngine extends HttpServlet {
     Properties properties = System.getProperties();
 
     response.setContentType("text/plain");
-    response.getWriter().println("Hello App Engine - Standard using "
+    response.getWriter().println("Amitais Sample app"
             + SystemProperty.version.get() + " Java "
             + properties.get("java.specification.version"));
   }

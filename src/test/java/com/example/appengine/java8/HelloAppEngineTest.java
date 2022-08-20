@@ -71,7 +71,7 @@ public class HelloAppEngineTest {
 
     // We expect our hello world response.
     assertThat(responseWriter.toString())
-        .contains("Hello App Engine - Standard ");
+        .contains("Amitai");
   }
 
   @Test

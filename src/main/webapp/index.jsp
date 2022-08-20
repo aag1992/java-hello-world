@@ -24,7 +24,7 @@
   <title>Hello App Engine Standard Java 8</title>
 </head>
 <body>
-    <h1>Hello App Engine -- Java 8!</h1>
+    <h1>Amitais App</h1>
 
   <p>This is <%= HelloAppEngine.getInfo() %>.</p>
   <table>
